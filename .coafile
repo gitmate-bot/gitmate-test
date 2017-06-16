@@ -1,0 +1,3 @@
+files = .coafile
+use_spaces=true
+bears = SpaceConsistencyBear 
